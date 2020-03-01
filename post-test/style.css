@@ -1,0 +1,183 @@
+@font-face {
+    font-family: pacifico;
+    src: url('font/pacifico.ttf');
+}
+.background {
+    background: linear-gradient(rgba(13, 6, 51, 0.623), rgb(0, 0, 0)), url('img/baliw-odb1l8l0btx0nauyctj1zj66pv07w4zpthiu0kd6js.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.background .header-content {
+	padding-top: 80px;
+    padding-bottom: 40px;
+	text-align: center;
+}
+
+.logo {
+    
+}
+
+.tagline {
+    text-align: center;
+}
+
+.text1 {
+    font-family: 'pacifico', sans-serif;
+    font-size: 40px;
+    color: #fff;
+}
+.text2 {
+    font-family: 'pacifico', sans-serif;
+    font-size: 40px;
+    color: #FF8C00;
+    
+}
+.text3 {
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #fff;
+}
+
+.btn-solid {
+    padding: 90px 80px;
+}
+.btn-solid-reg {
+    display: inline-block;
+	padding: 20px 40px;
+	border: 2px solid #FF8C00;
+	border-radius: 5px;
+	background-color: #FF8C00;
+	color: #fff;
+	font: 15px/0 "pacifico", sans-serif;
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
+.btn-solid-reg:hover {
+    background-color: transparent;
+	color: #FF8C00;
+	text-decoration: none;
+}
+
+.btn-outline-reg{
+	display: inline-block;
+	padding: 20px 50px;
+	border: 2px solid #FF8C00;
+	border-radius: 5px;
+	background-color: transparent;
+	color: #FF8C00;
+	font: 15px/0 "pacifico", sans-serif;
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
+.btn-outline-reg:hover {
+	background-color: #FF8C00;
+	color: #fff;
+	text-decoration: none;
+}
+
+
+
+/*****************/
+/*   About Us    */
+/*****************/
+
+.background2 {
+    background: linear-gradient(rgba(13, 6, 51, 0.623), rgb(0, 0, 0)), url('img/Sunset-Pura-Tanah-Lot-Bali.jpg') center center no-repeat;
+    background-size: cover;
+}
+.background2 .header-content2 {
+    padding-top: 100px;
+    padding-bottom: 170px;
+    text-align: center;
+}
+
+.text4 {
+    text-align: top;
+    font-family: 'pacifico', sans-serif;
+    font-size: 50px;
+    color: #FF8C00;
+}
+.text5 {
+    align-content: top;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+/*****************/
+/*  Reservation  */
+/*****************/
+
+.background3 {
+    background: linear-gradient(rgba(13, 6, 51, 0.329), rgb(0, 0, 0)), url('img/Jika-Anda-Ingin-Puas-Menikmati-Sunset-di-Bali-ini-triknya-2-1024x576.jpg') center center no-repeat;
+    background-size: cover;
+    margin: 120px ;
+}
+
+.background3 .header-content3 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+.text6 {
+    text-align: center;
+    font-family: 'pacifico', sans-serif;
+    font-size: 50px;
+    color: #FF8C00;
+}
+.form-group {
+	margin: 10px auto;
+	padding: 0px 100px;
+    text-align: center;
+	position: relative;
+}
+.form-group2 {
+	margin: 20px auto;
+	padding: 0px 330px;
+    text-align: center;
+	position: relative;
+}
+
+.form-box {
+	box-sizing: border-box;
+	width: 40%;
+	padding: 12px;
+	font-size: 10pt;
+	
+}
+
+input {
+    border-radius: 8px;
+}
+select {
+    border-radius: 8px;
+}
+textarea {
+    width: 39%;
+    height: 100px;
+    border-radius: 8px;
+}
+.btn {
+    text-align: center;
+}
+.btn-solid-submit {
+    display: inline-block;
+	padding: 20px 160px;
+	border: 2px solid #FF8C00;
+	border-radius: 5px;
+	background-color: #FF8C00;
+	color: #fff;
+	font: 15px/0 "pacifico", sans-serif;
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
+.btn-solid-submit:hover {
+    background-color: transparent;
+	color: #FF8C00;
+	text-decoration: none;
+}
